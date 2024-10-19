@@ -1430,3 +1430,10 @@ standby 1 ip 192.168.102.7
 standby 1 preempt
 standby 1 priority 101
 end
+
+
+Homelab:
+tracer 8.8.8.8
+tracer 8:8:8::8888
+R1-PLDT, R2-GLOBE
+IP SLA + HSRP
